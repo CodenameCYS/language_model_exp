@@ -1,5 +1,5 @@
 tqdm
 numpy
 tokenizers
-torch==1.7.0
-tensorflow-gpu==2.3.0
+# torch==1.7.0
+# tensorflow-gpu==2.3.0
